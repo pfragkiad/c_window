@@ -1,0 +1,1 @@
+cl.exe /EHsc /W4 /nologo /Fe:MyApp.exe user32.lib kernel32.lib  main.c
